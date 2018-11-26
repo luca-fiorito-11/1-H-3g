@@ -1,14 +1,14 @@
-JEFF-3.3 Incident Neutron File                                       1 0  0    0
+JEFF-3.2 Release - Neutron File March 2014                             0  0    0
  1.003000+3 2.989596+0          0          0          2          1 131 1451    1
  0.000000+0 1.000000+0          0          0          0          6 131 1451    2
- 1.000000+0 2.000000+7          3          0         10          3 131 1451    3
+ 1.000000+0 2.000000+7          1          0         10         32 131 1451    3
  0.000000+0 0.000000+0          0          0         90          8 131 1451    4
   1-H -  3 LANL       EVAL-NOV01 G.M.Hale                          131 1451    5
-PRC  42, 438 (1990)   DIST-DEC17 REV3-DEC17            20171231    131 1451    6
----JEFF-3.3           MATERIAL  131                                131 1451    7
+PRC  42, 438 (1990)   DIST-DEC06                       20111222    131 1451    6
+----JEFF32            MATERIAL  131                                131 1451    7
 -----INCIDENT NEUTRON DATA                                         131 1451    8
 ------ENDF-6 FORMAT                                                131 1451    9
-                                                                   131 1451   10
+*****************************  JEFF-3.2    *********************** 131 1451   10
 *** (n,2n) replaced by ENDF/B-VI.8, total adjusted (NNDC/2010/06 * 131 1451   11
 n-t scattering evaluation, based on an R-matrix analysis of p-3He  131 1451   12
 scattering that was transformed from the 4Li system to the 4H      131 1451   13
@@ -996,4 +996,4 @@ region.                                                            131 1451   24
  0.000000+0 0.000000+0          0          0          0          0 131 5  099999
  0.000000+0 0.000000+0          0          0          0          0 131 0  0    0
  0.000000+0 0.000000+0          0          0          0          0   0 0  0    0
- 0.000000+0 0.000000+0          0          0          0          0  -1 0  0    0
+                                                                    -1 0  0    0
